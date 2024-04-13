@@ -14,8 +14,8 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
   - ![Uploading Frontend Mentor Four card feature section.png…]()
 
   - [Links](#links)
-  - - Solution URL: [solution URL](https://github.com/Sooma8/four-card-feature-section)
-  - - Live Site URL: [live site URL](https://fourcard-feature-section-solution.netlify.app/)
+  - -[solution URL](https://github.com/Sooma8/four-card-feature-section)
+  - -[live site URL](https://fourcard-feature-section-solution.netlify.app/)
     - 
 - [My process](#my-process)
   - [Built with](#built-with)
